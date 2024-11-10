@@ -1,14 +1,35 @@
-# Grocery Webapp
-
-An advanced e-commerce web application built with the **MERN stack** (MongoDB, Express.js, React, Node.js), providing a platform for users to explore, manage, and purchase products. This project was developed to showcase full-stack development with the MERN stack and integrates various key features, including user authentication, product filtering, and a cart system.
+# Avocado Grocery Webapp
+An advanced e-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js), providing a platform for users to explore, manage, and purchase products. This project was developed to showcase full-stack development with the MERN stack and integrates various key features, including user authentication, product filtering, and a cart system.
+<p>
+   <img src="Evidence/front_page.png"  align="center" ">
+</p>
 
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and make purchases once authenticated.
+<p>
+   <img src="Evidence/login.png"  align="center" ">
+</p>  
+
 - **Product Page**: Displays all available products, with category filtering options.
+<p>
+   <img src="Evidence/products.png"  align="center" ">
+</p>
+
 - **Cart System**: Users can add products to their cart, update quantities, and proceed to checkout.
+<p>
+   <img src="Evidence/cart.png"  align="center" ">
+</p> 
+
 - **Admin Control**: Admin users can add, update, and manage products, categories, and orders.
+<p>
+   <img src="Evidence/admin.png"  align="center" ">
+</p> 
+
 - **Payment Gateway Integration**: Integrated payment system for processing user orders.
+<p>
+   <img src="Evidence/checkout.png"  align="center" ">
+</p> 
 
 ## Technologies Used
 
@@ -65,3 +86,5 @@ An advanced e-commerce web application built with the **MERN stack** (MongoDB, E
    cd backend
    npm start
    ```
+
+
