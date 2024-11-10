@@ -46,13 +46,13 @@ An advanced e-commerce web application built with the **MERN stack** (MongoDB, E
    ```
 3. Configure environment variables for MongoDB and Razorpay in .env.
     ```bash
-    DBURI="*********"
-    CLOUDINARY_CLOUD_NAME="*********"
-    CLOUDINARY_API_KEY="*********"
-    CLOUDINARY_API_SECRET="*********"
-    SECRET="*********"
-    KEY_ID="*********"
-    KEY_SECRET="*********"
+    DBURI="your-mongodb-uri"
+    CLOUDINARY_CLOUD_NAME="your-cloudinary-cloud-name"
+    CLOUDINARY_API_KEY="your-cloudinary-api-key"
+    CLOUDINARY_API_SECRET="your-cloudinary-api-secret"
+    SECRET="your-jwt-secret"
+    KEY_ID="razorpay-id"
+    KEY_SECRET="razorpay-secret-key"
    ```
 4. Start the server:
    Frontend:
