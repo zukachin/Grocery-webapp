@@ -11,7 +11,7 @@ A full-stack grocery shopping web app built with React, Node.js, HTML, CSS, Mong
 
 ## Tech Stack
 
-- **Frontend**: React, HTML, CSS
+- **Frontend**: React, HTML, CSS,Bootstrap
 - **Backend**: Node.js, Express, Mongoose
 - **Images storage**: Cloudinary
 - **Database**: MongoDB
