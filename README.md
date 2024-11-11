@@ -37,7 +37,6 @@ An advanced e-commerce web application built with the MERN stack (MongoDB, Expre
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Image Storage**: Cloudinary
-- **Deployment**: Render (Backend), Netlify (Frontend)
 
 ## Project Structure
 
